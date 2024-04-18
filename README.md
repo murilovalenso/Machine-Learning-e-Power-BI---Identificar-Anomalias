@@ -43,8 +43,5 @@ Considerando os dados históricos de transações financeiras realizadas pelos c
 Certifique-se de possuir todas as credenciais e permissões necessárias para acessar os dados dos clientes.
 O Power BI e o RStudio são ferramentas poderosas para análise e visualização de dados, mas também exigem um aprendizado prévio para utilizá-las eficientemente.
 
-## Gerando Relatório de Detecção de Anomalias com Power BI no RStudio
-![Tabelas]()
-
 ## Editando o Relatório das Anomalias no Power BI
-![Tabelas]()
+![Tabelas](https://github.com/murilovalenso/Machine-Learning-e-Power-BI---Identificar-Anomalias/blob/main/Dashboard%20-%20Detec%C3%A7%C3%A3o%20de%20Anomalias.png)
